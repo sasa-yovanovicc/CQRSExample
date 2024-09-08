@@ -44,3 +44,51 @@ The application includes comprehensive testing coverage with both unit and integ
 - **Validators:** Confirming the integrity and correctness of data validation logic.
 - **Repositories:** Testing data access and interactions with the database.
 - **Services:** Validating the business logic and service layer functionalities.
+
+
+### Requirements:
+
+The task is to create an ASP.NET MVC application to track employee working hours.
+
+The initial screen should display a table with the following data:
+- First Name
+- Last Name
+- Job Title
+- Date of Joining
+- Total Worked Hours
+
+Example:
+
+| First Name | Last Name  | Job Title    | Date of Joining | Total Worked Hours |
+|------------|-------------|--------------|-----------------|--------------------|
+| Ján        | Nový        | Technician   | 1.1.2024        | 15                 |
+| Ondrej     | Lehotský    | Developer    | 2.1.2024        | 10                 |
+
+The application must allow the recording of employee arrival and departure times (both the date and time of arrival and departure must be recorded).
+
+The application must support adding multiple intervals for employee arrivals and departures.
+
+Example:
+
+| Arrival          | Departure        |
+|------------------|------------------|
+| Interval 1:      |                  |
+| 1.1.2024 9:00    | 1.1.2024 17:00   |
+| Interval 2:      |                  |
+| 2.1.2024 9:00    | 2.1.2024 17:00   |
+
+Upon recording the arrival and departure, the total worked time on the initial screen should be updated.
+
+If the intervals overlap, the overlapping time should only be counted once.
+
+Example:
+
+| Arrival          | Departure        |
+|------------------|------------------|
+| Interval 1:      |                  |
+| 1.1.2024 9:00    | 1.1.2024 13:00   |
+| Interval 2:      |                  |
+| 1.1.2024 11:00   | 1.1.2024 17:00   |
+
+Total worked time = 8 hours.
+

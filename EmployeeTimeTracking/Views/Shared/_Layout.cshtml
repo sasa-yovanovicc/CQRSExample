@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Evidencia odpracovaného času zamestnancov</title>
+    <title>@ViewData["Title"] - Employee Work Time Tracking</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
     <style>
@@ -37,17 +37,17 @@
     <header>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
-                <a class="navbar-brand" href="@Url.Action("Index", "Home")">Evidencia odpracovaného času zamestnancov</a>
+                <a class="navbar-brand" href="@Url.Action("Index", "Home")">Employee Work Time Tracking</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" href="@Url.Action("Index", "Home")">Hlavná</a>
+                            <a class="nav-link" href="@Url.Action("Index", "Home")">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="@Url.Action("Index", "Employee")">Zoznam zamestnancov</a>
+                            <a class="nav-link" href="@Url.Action("Index", "Employee")">Employee List</a>
                         </li>
                     </ul>
                 </div>
@@ -59,7 +59,7 @@
     </div>
     <footer class="border-top footer text-muted">
         <div class="container">
-            26. august 2024 - Evidencia odpracovaného času zamestnancov - Sasa Jovanović (test pre ČSOB)<a href="@Url.Action("Description", "Home")">Description</a>
+            26 August 2024 - Employee Work Time Tracking - Sasa Jovanović (test for ČSOB)<a href="@Url.Action("Description", "Home")">Description</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
