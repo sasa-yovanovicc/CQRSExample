@@ -1,0 +1,52 @@
+﻿@model IEnumerable<EmployeeTimeTracking.Models.EmployeeResponseModel>
+
+@{
+    ViewData["Title"] = "Employees";
+}
+<div class="container">
+    <main role="main" class="pb-3">
+        <h2>Employees</h2>
+
+        <div class="mb-3">
+            <a class="btn btn-primary" href="@Url.Action("Create", "Employee")">Vytvoriť  účet zamestnanca</a>
+        </div>
+
+@if (Model.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Meno</th>
+                <th>Preizvisko</th>
+                <th>Pracovná pozícia</th>
+                <th>Dátum nástupu</th>
+                <th>Odpracované hodiny<br/>(spolu)</th>
+                <th>Zoznam príchodov a odchodov</th>
+                <th>Prichod</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Model)
+            {
+                <tr>
+                    <td>@employee.FirstName</td>
+                    <td>@employee.LastName</td>
+                    <td>@employee.Position</td>
+                    <td>@employee.HireDate.ToString("yyyy-MM-dd")</td>
+                    <td>@employee.TotalHours</td>
+                    <td><a class="btn btn-success" href="@Url.Action("ListWorkIntervals", "WorkInterval", new { employeeId = employee.Id })">Zoznam</a></td>
+                    <td>
+                        <a class="btn btn-success" href="@Url.Action("Start", "WorkInterval", new { employeeId = employee.Id })">Pridať príchod</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a class="btn btn-success btn-sm" href="@Url.Action("RecalculateTotalHours", "Employee")">Recalculate</a>
+}
+else
+{
+   <p>No employees available.</p>
+}
+</main>
+</div>

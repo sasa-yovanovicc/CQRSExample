@@ -1,0 +1,27 @@
+﻿@model EmployeeTimeTracking.Models.WorkIntervalRequestModel
+
+@{
+    ViewData["Title"] = Model.Id > 0 ? "Aktualizovať príchod" : "Pridať príchod";
+}
+<div class="container">
+    <main role="main" class="pb-3">
+<h2>@ViewData["Title"]</h2>
+
+<div>
+    <h3>@Model.FirstName @Model.LastName - @Model.Position</h3>
+    <form asp-action="@(Model.Id > 0 ? "UpdateStart" : "SaveStart")" method="post">
+        @if (Model.Id > 0)
+        {
+            <input type="hidden" name="Id" value="@Model.Id" />
+        }
+        <input type="hidden" asp-for="EmployeeId" />
+        <div class="form-group">
+            <label asp-for="Start" class="control-label"></label>
+            <input asp-for="Start" class="form-control" type="datetime-local" />
+            
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+</main>
+</div>

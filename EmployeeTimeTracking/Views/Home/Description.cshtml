@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Description";
+}
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-header"><h1>@ViewData["Title"]</h1></div>
+        <div class="card-body">
+            <p>
+                This application uses the MVC architecture combined with CQRS (Command Query Responsibility Segregation) design pattern. CQRS separates the operations of reading data (Query) from modifying data (Command), suggesting that distinct models should be used for each type of operation.
+            </p>
+            <h3>Benefits of CQRS:</h3>
+            <ul>
+                <li><strong>Scalability:</strong> Allows for different performance and optimizations for reading and writing.</li>
+                <li><strong>Clear Separation of Concerns:</strong> Separate logic for reading and writing facilitates easier implementation and maintenance.</li>
+                <li><strong>Flexibility:</strong> Easier to extend and modify parts of the system without affecting others.</li>
+            </ul>
+            <p>
+                The application adheres to SOLID principles and follows a structured project layout.
+            </p>
+            <h3>Note:</h3>
+            <p>
+                Access parameters such as connection strings and API keys are defined in <code>appsettings.json</code> for development purposes. However, for production environments, it is essential to secure these parameters to meet security standards. While this application does not currently implement secure management for these parameters, it is recommended to use managed secrets services such as Azure Key Vault or AWS Secrets Manager in a production setup. These services provide secure storage and management of sensitive information, helping to protect against unauthorized access and ensure compliance with security best practices.
+            </p>
+            <h3>Project Structure:</h3>
+            <ul>
+                <li><strong>Commands:</strong> Contains commands for data modification.</li>
+                <li><strong>Controllers:</strong> Controllers that handle HTTP requests.</li>
+                <li><strong>Data:</strong> Manages data access and database interactions.</li>
+                <ul>
+                    <li><strong>Entities:</strong> Defines the models that correspond to the physical tables in the database. Each entity represents a specific table structure and its columns.</li>
+                    <li><strong>Repositories:</strong> Provides methods for accessing and manipulating data in the database, enabling operations such as create, read, update, and delete (CRUD) on entities.</li>
+                </ul>
+                <li><strong>Handlers:</strong> Contains handlers for commands and queries.</li>
+                <li><strong>Interfaces:</strong> Defines interfaces for service layers.</li>
+                <li><strong>Mapping:</strong> Object mapping configurations.</li>
+                <li><strong>Migrations:</strong> Manages database migrations.</li>
+                <li><strong>Models:</strong> Defines data models.</li>
+                <li><strong>Program.cs:</strong> Application entry point.</li>
+                <li><strong>Queries:</strong> Contains queries for data retrieval.</li>
+                <li><strong>Services:</strong> Contains service layers and business logic.</li>
+                <li><strong>Validators:</strong> Validators for data integrity.</li>
+                <li><strong>Views:</strong> Contains views and user interface.</li>
+                <li><strong>wwwroot:</strong> Static files like CSS, JavaScript, and images.</li>
+                <li><strong>appsettings.json:</strong> Main application configuration.</li>
+                <li><strong>Properties:</strong> Project properties.</li>
+            </ul>
+            <h3>Testing:</h3>
+            <p>
+                The application includes comprehensive testing coverage with both unit and integration tests. A total of 44 tests cover critical elements of the application. The tests focus on:
+            </p>
+            <ul>
+                <li><strong>Controllers:</strong> Ensuring the correct handling of HTTP requests and responses.</li>
+                <li><strong>Mappers:</strong> Verifying accurate mapping between different data models.</li>
+                <li><strong>Validators:</strong> Confirming the integrity and correctness of data validation logic.</li>
+                <li><strong>Repositories:</strong> Testing data access and interactions with the database.</li>
+                <li><strong>Services:</strong> Validating the business logic and service layer functionalities.</li>
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,1245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\home\\description.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\home\\description.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F281F5C-85A5-44DD-A6F1-10E5A2B60EAA}|..\\EmployeeTimeTracking.Test\\EmployeeTimeTracking.Test.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking.test\\integrationtests\\repositories\\workintervalrepositoryintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F281F5C-85A5-44DD-A6F1-10E5A2B60EAA}|..\\EmployeeTimeTracking.Test\\EmployeeTimeTracking.Test.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking.test\\integrationtests\\repositories\\employeerepositoryintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\data\\entities\\workinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:data\\entities\\workinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\data\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:data\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\validators\\workintervalvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:validators\\workintervalvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\validators\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:validators\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\validators\\dategreaterthanattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:validators\\dategreaterthanattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\queries\\getallworkintervalsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:queries\\getallworkintervalsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\models\\employeerequestmodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:models\\employeerequestmodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\models\\constants\\dateconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:models\\constants\\dateconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\controllers\\workintervalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:controllers\\workintervalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\data\\repositories\\workintervalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:data\\repositories\\workintervalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F281F5C-85A5-44DD-A6F1-10E5A2B60EAA}|..\\EmployeeTimeTracking.Test\\EmployeeTimeTracking.Test.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking.test\\unittest\\validators\\workintervalvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F281F5C-85A5-44DD-A6F1-10E5A2B60EAA}|..\\EmployeeTimeTracking.Test\\EmployeeTimeTracking.Test.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking.test\\unittest\\validators\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F281F5C-85A5-44DD-A6F1-10E5A2B60EAA}|..\\EmployeeTimeTracking.Test\\EmployeeTimeTracking.Test.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking.test\\unittest\\validators\\dategreaterthanattributetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F281F5C-85A5-44DD-A6F1-10E5A2B60EAA}|..\\EmployeeTimeTracking.Test\\EmployeeTimeTracking.Test.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking.test\\unittest\\services\\workintervalservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F281F5C-85A5-44DD-A6F1-10E5A2B60EAA}|..\\EmployeeTimeTracking.Test\\EmployeeTimeTracking.Test.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking.test\\unittest\\repositories\\employeerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F281F5C-85A5-44DD-A6F1-10E5A2B60EAA}|..\\EmployeeTimeTracking.Test\\EmployeeTimeTracking.Test.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking.test\\unittest\\mapping\\mappingprofiletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F281F5C-85A5-44DD-A6F1-10E5A2B60EAA}|..\\EmployeeTimeTracking.Test\\EmployeeTimeTracking.Test.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking.test\\unittest\\controllers\\workintervalcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F281F5C-85A5-44DD-A6F1-10E5A2B60EAA}|..\\EmployeeTimeTracking.Test\\EmployeeTimeTracking.Test.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking.test\\unittest\\controllers\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\workinterval\\updatestart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\workinterval\\updatestart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\workinterval\\updateend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\workinterval\\updateend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\workinterval\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\workinterval\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\workinterval\\savestart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\workinterval\\savestart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\workinterval\\saveend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\workinterval\\saveend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\workinterval\\listworkintervals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\workinterval\\listworkintervals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\workinterval\\end.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\workinterval\\end.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\employee\\recalculatetotalhours.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\employee\\recalculatetotalhours.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\services\\workintervalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:services\\workintervalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\queries\\getallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:queries\\getallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\queries\\getworkintervalsbyemployeeidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:queries\\getworkintervalsbyemployeeidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\queries\\getworkintervalquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:queries\\getworkintervalquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\queries\\getworkintervalbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:queries\\getworkintervalbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\queries\\getemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:queries\\getemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\queries\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:queries\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\models\\workintervalupdaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:models\\workintervalupdaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\models\\workintervalsaverequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:models\\workintervalsaverequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\models\\workintervalresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:models\\workintervalresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\models\\workintervalrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:models\\workintervalrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\models\\employeeresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:models\\employeeresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\interfaces\\iworkintervalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:interfaces\\iworkintervalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\handlers\\updateworkintervalcommandhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:handlers\\updateworkintervalcommandhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\handlers\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:handlers\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\handlers\\recalculatetotalhourscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:handlers\\recalculatetotalhourscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\handlers\\getworkintervalsbyemployeeidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:handlers\\getworkintervalsbyemployeeidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\handlers\\getworkintervalqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:handlers\\getworkintervalqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\handlers\\getworkintervalbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:handlers\\getworkintervalbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\handlers\\getemployeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:handlers\\getemployeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\handlers\\getemployeebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:handlers\\getemployeebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\handlers\\getallworkintervalsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:handlers\\getallworkintervalsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\handlers\\getallemployeesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:handlers\\getallemployeesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\handlers\\addworkintervalcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:handlers\\addworkintervalcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\handlers\\addemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:handlers\\addemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\data\\repositories\\iworkintervalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:data\\repositories\\iworkintervalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\data\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:data\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\commands\\updateworkintervalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:commands\\updateworkintervalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\commands\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:commands\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\commands\\addworkintervalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:commands\\addworkintervalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\commands\\recalculatetotalhourscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:commands\\recalculatetotalhourscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|c:\\users\\sasa\\source\\repos\\employeetimetracking\\commands\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28FAF6E-2B5F-442D-8E6E-276CE1E7EB69}|EmployeeTimeTracking.csproj|solutionrelative:commands\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Description.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Home\\Description.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Description.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Home\\Description.cshtml",
+              "RelativeToolTip": "Views\\Home\\Description.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T07:35:11.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Validators\\EmployeeValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\EmployeeValidator.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Validators\\EmployeeValidator.cs",
+              "RelativeToolTip": "Validators\\EmployeeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:53:00.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkIntervalValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Validators\\WorkIntervalValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\WorkIntervalValidator.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Validators\\WorkIntervalValidator.cs",
+              "RelativeToolTip": "Validators\\WorkIntervalValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:53:05.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Data\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Data\\Entities\\Employee.cs",
+              "RelativeToolTip": "Data\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:47:00.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkInterval.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Data\\Entities\\WorkInterval.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\WorkInterval.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Data\\Entities\\WorkInterval.cs",
+              "RelativeToolTip": "Data\\Entities\\WorkInterval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:47:04.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepositoryIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\IntegrationTests\\Repositories\\EmployeeRepositoryIntegrationTests.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeTimeTracking.Test\\IntegrationTests\\Repositories\\EmployeeRepositoryIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\IntegrationTests\\Repositories\\EmployeeRepositoryIntegrationTests.cs",
+              "RelativeToolTip": "..\\EmployeeTimeTracking.Test\\IntegrationTests\\Repositories\\EmployeeRepositoryIntegrationTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:54:32.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkIntervalRepositoryIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\IntegrationTests\\Repositories\\WorkIntervalRepositoryIntegrationTests.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeTimeTracking.Test\\IntegrationTests\\Repositories\\WorkIntervalRepositoryIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\IntegrationTests\\Repositories\\WorkIntervalRepositoryIntegrationTests.cs",
+              "RelativeToolTip": "..\\EmployeeTimeTracking.Test\\IntegrationTests\\Repositories\\WorkIntervalRepositoryIntegrationTests.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:02:05.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:53:40.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DateGreaterThanAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Validators\\DateGreaterThanAttribute.cs",
+              "RelativeDocumentMoniker": "Validators\\DateGreaterThanAttribute.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Validators\\DateGreaterThanAttribute.cs",
+              "RelativeToolTip": "Validators\\DateGreaterThanAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:52:55.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllWorkIntervalsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Queries\\GetAllWorkIntervalsQuery.cs",
+              "RelativeDocumentMoniker": "Queries\\GetAllWorkIntervalsQuery.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Queries\\GetAllWorkIntervalsQuery.cs",
+              "RelativeToolTip": "Queries\\GetAllWorkIntervalsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:43.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeRequestModel.cs.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\EmployeeRequestModel.cs.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeRequestModel.cs.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\EmployeeRequestModel.cs.cs",
+              "RelativeToolTip": "Models\\EmployeeRequestModel.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:24.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DateConstants.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\Constants\\DateConstants.cs",
+              "RelativeDocumentMoniker": "Models\\Constants\\DateConstants.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\Constants\\DateConstants.cs",
+              "RelativeToolTip": "Models\\Constants\\DateConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:12.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:50:57.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WorkIntervalController.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Controllers\\WorkIntervalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkIntervalController.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Controllers\\WorkIntervalController.cs",
+              "RelativeToolTip": "Controllers\\WorkIntervalController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAmwKIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:44:20.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAwHoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:40:57.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:44:10.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Validators\\EmployeeValidator.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeTimeTracking.Test\\UnitTest\\Validators\\EmployeeValidator.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Validators\\EmployeeValidator.cs",
+              "RelativeToolTip": "..\\EmployeeTimeTracking.Test\\UnitTest\\Validators\\EmployeeValidator.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:58:33.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAA2wDMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:53:11.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WorkIntervalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Data\\Repositories\\WorkIntervalRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\WorkIntervalRepository.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Data\\Repositories\\WorkIntervalRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\WorkIntervalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:47:17.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DateGreaterThanAttributeTests.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Validators\\DateGreaterThanAttributeTests.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeTimeTracking.Test\\UnitTest\\Validators\\DateGreaterThanAttributeTests.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Validators\\DateGreaterThanAttributeTests.cs",
+              "RelativeToolTip": "..\\EmployeeTimeTracking.Test\\UnitTest\\Validators\\DateGreaterThanAttributeTests.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:58:22.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WorkIntervalValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Validators\\WorkIntervalValidatorTests.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeTimeTracking.Test\\UnitTest\\Validators\\WorkIntervalValidatorTests.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Validators\\WorkIntervalValidatorTests.cs",
+              "RelativeToolTip": "..\\EmployeeTimeTracking.Test\\UnitTest\\Validators\\WorkIntervalValidatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:58:37.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WorkIntervalServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Services\\WorkIntervalServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeTimeTracking.Test\\UnitTest\\Services\\WorkIntervalServiceTests.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Services\\WorkIntervalServiceTests.cs",
+              "RelativeToolTip": "..\\EmployeeTimeTracking.Test\\UnitTest\\Services\\WorkIntervalServiceTests.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAywFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:56:24.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Repositories\\EmployeeRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeTimeTracking.Test\\UnitTest\\Repositories\\EmployeeRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Repositories\\EmployeeRepositoryTests.cs",
+              "RelativeToolTip": "..\\EmployeeTimeTracking.Test\\UnitTest\\Repositories\\EmployeeRepositoryTests.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:55:57.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfileTests.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Mapping\\MappingProfileTests.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeTimeTracking.Test\\UnitTest\\Mapping\\MappingProfileTests.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Mapping\\MappingProfileTests.cs",
+              "RelativeToolTip": "..\\EmployeeTimeTracking.Test\\UnitTest\\Mapping\\MappingProfileTests.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwFsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:55:38.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WorkIntervalControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Controllers\\WorkIntervalControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeTimeTracking.Test\\UnitTest\\Controllers\\WorkIntervalControllerTests.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Controllers\\WorkIntervalControllerTests.cs",
+              "RelativeToolTip": "..\\EmployeeTimeTracking.Test\\UnitTest\\Controllers\\WorkIntervalControllerTests.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAzwMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:54:59.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Controllers\\EmployeeControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeTimeTracking.Test\\UnitTest\\Controllers\\EmployeeControllerTests.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking.Test\\UnitTest\\Controllers\\EmployeeControllerTests.cs",
+              "RelativeToolTip": "..\\EmployeeTimeTracking.Test\\UnitTest\\Controllers\\EmployeeControllerTests.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:54:50.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvx0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:54:11.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T12:54:10.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:54:09.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:54:08.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\WorkInterval\\UpdateStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\WorkInterval\\UpdateStart.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\WorkInterval\\UpdateStart.cshtml",
+              "RelativeToolTip": "Views\\WorkInterval\\UpdateStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:54:07.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateEnd.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\WorkInterval\\UpdateEnd.cshtml",
+              "RelativeDocumentMoniker": "Views\\WorkInterval\\UpdateEnd.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\WorkInterval\\UpdateEnd.cshtml",
+              "RelativeToolTip": "Views\\WorkInterval\\UpdateEnd.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:54:06.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Start.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\WorkInterval\\Start.cshtml",
+              "RelativeDocumentMoniker": "Views\\WorkInterval\\Start.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\WorkInterval\\Start.cshtml",
+              "RelativeToolTip": "Views\\WorkInterval\\Start.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:54:05.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SaveStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\WorkInterval\\SaveStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\WorkInterval\\SaveStart.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\WorkInterval\\SaveStart.cshtml",
+              "RelativeToolTip": "Views\\WorkInterval\\SaveStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:54:04.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SaveEnd.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\WorkInterval\\SaveEnd.cshtml",
+              "RelativeDocumentMoniker": "Views\\WorkInterval\\SaveEnd.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\WorkInterval\\SaveEnd.cshtml",
+              "RelativeToolTip": "Views\\WorkInterval\\SaveEnd.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:54:03.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ListWorkIntervals.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\WorkInterval\\ListWorkIntervals.cshtml",
+              "RelativeDocumentMoniker": "Views\\WorkInterval\\ListWorkIntervals.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\WorkInterval\\ListWorkIntervals.cshtml",
+              "RelativeToolTip": "Views\\WorkInterval\\ListWorkIntervals.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:54:01.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "End.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\WorkInterval\\End.cshtml",
+              "RelativeDocumentMoniker": "Views\\WorkInterval\\End.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\WorkInterval\\End.cshtml",
+              "RelativeToolTip": "Views\\WorkInterval\\End.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:54:00.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:53:57.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:53:54.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:53:50.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RecalculateTotalHours.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Employee\\RecalculateTotalHours.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\RecalculateTotalHours.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Employee\\RecalculateTotalHours.cshtml",
+              "RelativeToolTip": "Views\\Employee\\RecalculateTotalHours.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:53:30.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:53:10.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "WorkIntervalService.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Services\\WorkIntervalService.cs",
+              "RelativeDocumentMoniker": "Services\\WorkIntervalService.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Services\\WorkIntervalService.cs",
+              "RelativeToolTip": "Services\\WorkIntervalService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:54.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetWorkIntervalsByEmployeeIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Queries\\GetWorkIntervalsByEmployeeIdQuery.cs",
+              "RelativeDocumentMoniker": "Queries\\GetWorkIntervalsByEmployeeIdQuery.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Queries\\GetWorkIntervalsByEmployeeIdQuery.cs",
+              "RelativeToolTip": "Queries\\GetWorkIntervalsByEmployeeIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:51.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetWorkIntervalQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Queries\\GetWorkIntervalQuery.cs",
+              "RelativeDocumentMoniker": "Queries\\GetWorkIntervalQuery.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Queries\\GetWorkIntervalQuery.cs",
+              "RelativeToolTip": "Queries\\GetWorkIntervalQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:50.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetWorkIntervalByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Queries\\GetWorkIntervalByIdQuery.cs",
+              "RelativeDocumentMoniker": "Queries\\GetWorkIntervalByIdQuery.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Queries\\GetWorkIntervalByIdQuery.cs",
+              "RelativeToolTip": "Queries\\GetWorkIntervalByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:49.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetEmployeeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Queries\\GetEmployeeQuery.cs",
+              "RelativeDocumentMoniker": "Queries\\GetEmployeeQuery.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Queries\\GetEmployeeQuery.cs",
+              "RelativeToolTip": "Queries\\GetEmployeeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:47.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetEmployeeByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Queries\\GetEmployeeByIdQuery.cs",
+              "RelativeDocumentMoniker": "Queries\\GetEmployeeByIdQuery.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Queries\\GetEmployeeByIdQuery.cs",
+              "RelativeToolTip": "Queries\\GetEmployeeByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:45.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetAllEmployeesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Queries\\GetAllEmployeesQuery.cs",
+              "RelativeDocumentMoniker": "Queries\\GetAllEmployeesQuery.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Queries\\GetAllEmployeesQuery.cs",
+              "RelativeToolTip": "Queries\\GetAllEmployeesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:36.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WorkIntervalUpdateRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\WorkIntervalUpdateRequestModel.cs",
+              "RelativeDocumentMoniker": "Models\\WorkIntervalUpdateRequestModel.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\WorkIntervalUpdateRequestModel.cs",
+              "RelativeToolTip": "Models\\WorkIntervalUpdateRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:33.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "WorkIntervalSaveRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\WorkIntervalSaveRequestModel.cs",
+              "RelativeDocumentMoniker": "Models\\WorkIntervalSaveRequestModel.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\WorkIntervalSaveRequestModel.cs",
+              "RelativeToolTip": "Models\\WorkIntervalSaveRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:31.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "WorkIntervalResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\WorkIntervalResponseModel.cs",
+              "RelativeDocumentMoniker": "Models\\WorkIntervalResponseModel.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\WorkIntervalResponseModel.cs",
+              "RelativeToolTip": "Models\\WorkIntervalResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:30.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "WorkIntervalRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\WorkIntervalRequestModel.cs",
+              "RelativeDocumentMoniker": "Models\\WorkIntervalRequestModel.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\WorkIntervalRequestModel.cs",
+              "RelativeToolTip": "Models\\WorkIntervalRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:28.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:27.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "EmployeeResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\EmployeeResponseModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeResponseModel.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Models\\EmployeeResponseModel.cs",
+              "RelativeToolTip": "Models\\EmployeeResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:26.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IWorkIntervalService.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Interfaces\\IWorkIntervalService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IWorkIntervalService.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Interfaces\\IWorkIntervalService.cs",
+              "RelativeToolTip": "Interfaces\\IWorkIntervalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:50:49.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateWorkIntervalCommandHandler .cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\UpdateWorkIntervalCommandHandler .cs",
+              "RelativeDocumentMoniker": "Handlers\\UpdateWorkIntervalCommandHandler .cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\UpdateWorkIntervalCommandHandler .cs",
+              "RelativeToolTip": "Handlers\\UpdateWorkIntervalCommandHandler .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:50:38.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UpdateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\UpdateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\UpdateEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\UpdateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "Handlers\\UpdateEmployeeCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:50:30.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RecalculateTotalHoursCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\RecalculateTotalHoursCommandHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\RecalculateTotalHoursCommandHandler.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\RecalculateTotalHoursCommandHandler.cs",
+              "RelativeToolTip": "Handlers\\RecalculateTotalHoursCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:50:19.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GetWorkIntervalsByEmployeeIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\GetWorkIntervalsByEmployeeIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\GetWorkIntervalsByEmployeeIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\GetWorkIntervalsByEmployeeIdQueryHandler.cs",
+              "RelativeToolTip": "Handlers\\GetWorkIntervalsByEmployeeIdQueryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:50:06.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GetWorkIntervalQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\GetWorkIntervalQueryHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\GetWorkIntervalQueryHandler.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\GetWorkIntervalQueryHandler.cs",
+              "RelativeToolTip": "Handlers\\GetWorkIntervalQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:49:56.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GetWorkIntervalByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\GetWorkIntervalByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\GetWorkIntervalByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\GetWorkIntervalByIdQueryHandler.cs",
+              "RelativeToolTip": "Handlers\\GetWorkIntervalByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:49:46.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "GetEmployeeQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\GetEmployeeQueryHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\GetEmployeeQueryHandler.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\GetEmployeeQueryHandler.cs",
+              "RelativeToolTip": "Handlers\\GetEmployeeQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:49:37.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "GetEmployeeByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\GetEmployeeByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\GetEmployeeByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\GetEmployeeByIdQueryHandler.cs",
+              "RelativeToolTip": "Handlers\\GetEmployeeByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:49:25.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "GetAllWorkIntervalsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\GetAllWorkIntervalsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\GetAllWorkIntervalsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\GetAllWorkIntervalsQueryHandler.cs",
+              "RelativeToolTip": "Handlers\\GetAllWorkIntervalsQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:48:57.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "GetAllEmployeesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\GetAllEmployeesQueryHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\GetAllEmployeesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\GetAllEmployeesQueryHandler.cs",
+              "RelativeToolTip": "Handlers\\GetAllEmployeesQueryHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:48:08.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AddWorkIntervalCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\AddWorkIntervalCommandHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\AddWorkIntervalCommandHandler.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\AddWorkIntervalCommandHandler.cs",
+              "RelativeToolTip": "Handlers\\AddWorkIntervalCommandHandler.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:47:50.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AddEmployeeCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\AddEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\AddEmployeeCommandHandler.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Handlers\\AddEmployeeCommandHandler.cs",
+              "RelativeToolTip": "Handlers\\AddEmployeeCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAABBwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:47:21.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:47:18.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IWorkIntervalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Data\\Repositories\\IWorkIntervalRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\IWorkIntervalRepository.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Data\\Repositories\\IWorkIntervalRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\IWorkIntervalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:47:15.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Data\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Data\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:47:14.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:47:06.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UpdateWorkIntervalCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Commands\\UpdateWorkIntervalCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\UpdateWorkIntervalCommand.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Commands\\UpdateWorkIntervalCommand.cs",
+              "RelativeToolTip": "Commands\\UpdateWorkIntervalCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:40:29.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "UpdateEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Commands\\UpdateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\UpdateEmployeeCommand.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Commands\\UpdateEmployeeCommand.cs",
+              "RelativeToolTip": "Commands\\UpdateEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:39:52.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RecalculateTotalHoursCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Commands\\RecalculateTotalHoursCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\RecalculateTotalHoursCommand.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Commands\\RecalculateTotalHoursCommand.cs",
+              "RelativeToolTip": "Commands\\RecalculateTotalHoursCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:39:13.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "AddWorkIntervalCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Commands\\AddWorkIntervalCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\AddWorkIntervalCommand.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Commands\\AddWorkIntervalCommand.cs",
+              "RelativeToolTip": "Commands\\AddWorkIntervalCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:37:20.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "AddEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Commands\\AddEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\AddEmployeeCommand.cs",
+              "ToolTip": "C:\\Users\\sasa\\source\\repos\\EmployeeTimeTracking\\Commands\\AddEmployeeCommand.cs",
+              "RelativeToolTip": "Commands\\AddEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:37:18.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
